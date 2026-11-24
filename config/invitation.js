@@ -18,8 +18,8 @@ module.exports = {
   maxGuests: 5,                              // jumlah tamu maksimum per RSVP
   order: ['bride', 'groom'],                 // urutan tampil mempelai
   couple: {
-    bride: { name: 'Chichi Sevia Mardaleina', nick: 'Chichi', role: 'Putri', parents: 'Bapak Gatot Sumarno & Ibu Sunarti' },
-    groom: { name: 'Nicko Dwi Yumile', nick: 'Nicko', role: 'Putra', parents: 'Bapak Supriyanto & Ibu Suyatmi' },
+    bride: { name: 'Chichi Sevia Mardaleina', nick: 'Chichi', role: 'Putri', parents: 'Bapak Gatot Sumarno & Ibu Sunarti', photo: '/assets/img/bride-blue.png' },
+    groom: { name: 'Nicko Dwi Yumile', nick: 'Nicko', role: 'Putra', parents: 'Bapak Supriyanto & Ibu Suyatmi', photo: '/assets/img/groom-blue.png' },
   },
 
   events: [
